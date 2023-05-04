@@ -1,4 +1,5 @@
 import CartWidget from "../CartWidget/CartWidget"
+import calmer from "./calmer.png"
 
 export default function NavBar(){
     return (
